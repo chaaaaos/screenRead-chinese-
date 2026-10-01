@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 屏幕文字朗读器（ScreenReader）
 
 读取电脑屏幕上「指定矩形区域」的文字，按角色/情绪选择不同语音包，
@@ -146,3 +147,7 @@ pip install edge-tts playsound
   - `choose_voice_pack(文字)` → 语音包
   - `Speaker.speak(文字, 语音包)` → 发声
   只要保持这些「接口」不变，内部怎么改都不影响其它模块。
+=======
+# screenRead-chinese-
+read the screen
+>>>>>>> 0b7ccb93c17c4275cb22c732710e61e16c733e01
